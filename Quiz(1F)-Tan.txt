@@ -1,0 +1,7 @@
+The R-pi is working because the previous group installed the Raspbian OS correctly, though 
+it powered-off a while after it was installed, it was due to the power-adapter that was used.
+The adapter cannot supply the required power for the R-pi to sustain itself so it automatically
+powered-off. All in all, there's no problem concerning the R-pi, it was just the adaptor that
+was used.
+
+That was all according to Cotacte from the previous group that conducted the previous troubleshooting.
