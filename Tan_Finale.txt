@@ -1,0 +1,65 @@
+	My experience on this troubleshooting subject? If I have recalled that moment when Engr. Castro remarked us with 
+something about computer basics precisely and correctly, this is what he said, “Dile man lage mo mutingog? Wa jud moy 
+ikatubag? Mahimo man kaha mog computer engineers puhon? Pero mismo pagtubag ug basics about computers, dle ninyo mahimo.”. 
+If I remember, it was on interfacing subject, 6pm and in room 311. He somehow said it like that. We were silent because 
+he was on point. Did you get the idea? We’re computer engineering students that doesn’t know about computer basics. 
+Even though we’re taking this course, are we really computer literate?
+
+	I have classmates which does not know how to operate, fix or troubleshoot a computer. I won’t tell who they are but 
+I can say in our section, at least 3 person knows how to BDO (We Find Ways) a computer perhaps. They do not even know what 
+this part can do and the name of that basic specific part, they don’t even know. If you can only read the previous 
+conversation on our section’s group chat, you can read questions regarding how to troubleshoot a laptop that won’t detect a 
+wifi. Heck, even a pc that won’t turn on, they don’t know what to do. They do not know what a ram can do, is it necessary 
+for gaming and applications like Adobe Photoshop, Matlab, Eagle and other software? You name them. They don’t even know that 
+rams are replaceable. This proves that even the most basics of all basics about computer, they don’t know about it. 
+How much more about troubleshooting?
+
+	It kind of angered me how they don’t know about these things and they’ll just ask about it like, “hey, how do you 
+replace a ram inside a laptop?”. We are in an epoch where information is freely available and just one type on a browser and 
+enter it away, BOOM! Information is all yours. Why can’t they do that? But they can do search about Korean things, actors and 
+actress things, what’s trending things and you name them things but cannot even do “What can I do with my pc’s problem” 
+things. Remember, we are computer engineering students but doesn’t know about computer basics. Isn’t it laughable?
+
+	Yeah. Okay. I get it. These people did not age with the use of computers or there is no pc available on their homes. 
+They lack the knowledge because it isn’t freely available in their reach. But that excuse won’t hinder them for learning the 
+basics. We’re on our fourth year here in BISU. A year or so, we’ll graduate in God’s will. But, isn’t it an insult to those 
+who have graduated already? Those who have graduated and studied computers? Oh, they’ll graduate soon but with not enough 
+knowledge about computer basics.
+
+	I can say that one factor that affects us is the institution’s way of teaching. I quote from  Association for 
+Computing Machinery (ACM), “Computer Engineering is defined as the discipline that embodies the science and technology of 
+design, construction, implementation, and maintenance of software and hardware components of modern computing systems and 
+computer-controlled equipment.”. Software and hardware. As you can see, the institution greatly teaches us about software 
+but on the hardware side, it’s unsatisfactory. If I could put it on a percentage view, software would be 75% and hardware 
+would be 25%. It should be balanced but that’s what I see, and I experience. I’m entitled with my own opinion, right?
+
+	I have great expectations on this subject. To be honest, I do. I have expected that this subject would teach my 
+classmates about computer basics which they still don’t know about and a lot of hands-on about maintenance and troubleshooting 
+on software and hardware side. But the semester is ending. Again, I have expected a lot of hands-on or practical exams 
+regarding this subject but yeah, I shouldn’t have expected. This subject was meant to be full of practical exams or a lot of 
+hands-on works. But what this subject did was just reporting and copy pasting, and a little bit of hands-on where a group of 
+12 people troubleshoot a CPU. Do you really think those 12 students learned a single thing on that hands-on? To be prolly 
+honest? Nope. It should have been labored individually, a pair could have sufficed. But 12 students on a single CPU? And 12 
+students on a single Raspberry Pie board? Nope. The knowledge that would have been acquired by the students is now on that 
+sole student who had troubleshoot the actual thing. Those remaining students have just watched him did it. Never did touched 
+nor did a hands-on on that troubleshooting activity.
+
+	It frustrated me how my expectations weren’t reached. From the subject description itself, Troubleshooting of Computer 
+Systems. Troubleshooting should be equal to practical work. This subject was more on theory, not on practical drills and 
+hands-on activities. I get why my expectations weren’t reached, it was because the institution does not have enough resources 
+for our field. Even though the scenario is currently like that, the administrators or the teachers could have found another way 
+to cope with the lack of resource, they should have been the resourceful one. They shouldn’t have done it with “Search this and 
+Report This”. It’s all theory, never been drilled on. It could have sufficed if 3 or 4 pairs of students do a practical drill 
+on a PC an hour or on every class meeting. Any activities that would help the students touch their troubleshooting skills 
+recently acquired by theories. It should’ve been all hands-on with a bit of theory and not all theories with a bit of practical 
+activities.
+
+	I’m disappointed because I have put my expectations real high. I’m disappointed how my classmates doesn’t know about 
+basic computer things, much more about troubleshooting and maintenance. I’m disappointed on how the institution focus on software 
+but not really hardware, it should have been balanced. I’m disappointed on how practical exams were conducted. It was supposed to 
+be hands-on, not written. Although it would suffice but practical exams would be the best idea. I’m disappointed on how the 
+institution doesn’t have enough resource for our field. I thought the new curriculum was about self-learning? Yes, self-learning. 
+But the institution should have interfered with it, they should have compensated the lack of resources for the sake of the 
+knowledge of their students. The lack of resources made it much more difficult for the students to acquire knowledge particularly 
+those who doesn’t own a computer due to poverty. There are many ways to learn and acquire knowledge but experience is the best 
+teacher.
